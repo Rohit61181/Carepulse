@@ -48,7 +48,6 @@ Patients and admins can upload and securely store necessary documents using Appw
 ### 👉 Manage and Track Application Performance Using Sentry
 Sentry is integrated to monitor performance and detect errors, ensuring the application runs smoothly and securely.
 
----
 
 ## 🛠️ Future Improvements
 
@@ -84,7 +83,6 @@ Here are some potential future enhancements to improve functionality and user ex
 10. **Integration with External Health APIs**  
     Connect the platform to external health data providers to allow real-time syncing of patient health metrics (e.g., wearables data).
 
----
 
 ## 🤸 Quick Start
 
