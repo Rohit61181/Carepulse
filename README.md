@@ -130,7 +130,7 @@ NEXT_PUBLIC_BUCKET_ID=
 NEXT_PUBLIC_ADMIN_PASSKEY=123456
 ```
 
-Replace the placeholder values with your actual Appwrite credentials. You can obtain these credentials by signing up on the Appwrite website.
+Replace the placeholder values with your actual Appwrite credentials. You can obtain these credentials by signing up on the [Appwrite](#Appwrite)
 
 ### Running the Project
 
