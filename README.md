@@ -101,7 +101,7 @@ Make sure you have the following installed on your machine:
 To clone the repository, run the following command:
 
 ```bash
-git clone https://github.com/adrianhajdin/healthcare.git
+git clone https://github.com/Rohit61181/healthcare.git
 cd healthcare
 ```
 
